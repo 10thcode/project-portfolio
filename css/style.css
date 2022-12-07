@@ -8,19 +8,19 @@ body{
   padding: 0px;
   box-sizing: none;
 }
-header {
+.header {
   display: flex;
   justify-content: flex-end;
-  width: 100vw;
+  width: 98%;
   background: #810CA8;
   position: fixed;
   top: 0;
-  height: 100px;
+  height: 65px;
   align-items: center;
 
 }
 
-header nav a {
+nav a {
   text-decoration: none;
   color: white;
 }
