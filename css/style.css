@@ -203,6 +203,18 @@ nav {
   font-size: 18px;
 }
 
-@media screen and(max-width:600px) {
-  
+@media screen and (max-width:600px) {
+  #welcome-section h1{
+    font-size: 18px;
+  }
+
+  #welcome-section {
+    height: 50vh;
+  }
+
+  #welcome-section p {
+    font-size: 12px;
+
+  }
+
 }
